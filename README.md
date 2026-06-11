@@ -2,14 +2,14 @@
 <h2>Clone atau buat struktur folder</h2>
 mkdir tic-tac-toe && cd tic-tac-toe
 
-<h2>Setup Backend</h2>
+<h3>Setup Backend</h3>
 cd backend
 
 npm install
 
 npm run dev        (Server berjalan di http://localhost:4000)
 
-<h2>Setup Frontend (terminal baru)</h2>
+<h3>Setup Frontend (terminal baru)</h3>
 cd frontend
 
 npm install
