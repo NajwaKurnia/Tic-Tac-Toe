@@ -1,16 +1,19 @@
-** TIC-TAC-TOE 
-Instruksi Instalasi dan Menjalankan Program
-# Clone atau buat struktur folder
+# Instruksi Instalasi dan Menjalankan Program
+## Clone atau buat struktur folder
 mkdir tic-tac-toe && cd tic-tac-toe
 
-# Setup Backend
+## Setup Backend
 cd backend
+
 npm install
+
 npm run dev        # Server berjalan di http://localhost:4000
 
-# Setup Frontend (terminal baru)
+## Setup Frontend (terminal baru)
 cd frontend
+
 npm install
+
 npm run dev        # Aplikasi berjalan di http://localhost:3000
 
 Cara Pengujian
