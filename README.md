@@ -1,5 +1,6 @@
 # Instruksi Instalasi dan Menjalankan Program
-<h2>Clone atau buat struktur folder</h2>
+
+<h3>Clone atau buat struktur folder</h3>
 mkdir tic-tac-toe && cd tic-tac-toe
 
 <h3>Setup Backend</h3>
