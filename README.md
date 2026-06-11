@@ -7,14 +7,14 @@ cd backend
 
 npm install
 
-npm run dev        # Server berjalan di http://localhost:4000
+npm run dev        (Server berjalan di http://localhost:4000)
 
 ## Setup Frontend (terminal baru)
 cd frontend
 
 npm install
 
-npm run dev        # Aplikasi berjalan di http://localhost:3000
+npm run dev        (Aplikasi berjalan di http://localhost:3000)
 
 Cara Pengujian
 1.	Buka http://localhost:3000 di dua tab browser berbeda.
